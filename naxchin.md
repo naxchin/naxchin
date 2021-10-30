@@ -4,12 +4,11 @@
 
 - 🌱 I’m a computer science student at [42](https://www.42.fr/)
 - 💼 I'm currently looking for opportunities. I love to learn and contribute in any and every possible way
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nathaliexiaodanchin)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nathalie-xiaodan-chin)
 
 <br/>
 
-<a href="https://github.com/naxchin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naxchin&theme=buefy&show_icons=true" />
+<a
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naxchin&theme=buefy&layout=compact" />
 </a>
 
